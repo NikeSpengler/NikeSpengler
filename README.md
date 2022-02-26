@@ -1,8 +1,8 @@
 ### Hi, I am Nike 🌱
 
-- I am a Frontend Developer student with a background in Garpic Design. It feels like a perfect match.
+### I am a Frontend Developer student with a background in Garpic Design. It feels like a perfect match.
  
-- I’m currently learning; 
+### I’m currently learning; 
 - JavaScript
 - React.JS
 - HTML5
@@ -13,6 +13,7 @@
 
 
 
-- Portfolio: Cooming soon
+### Portfolio: 
+- Cooming soon
 
 
