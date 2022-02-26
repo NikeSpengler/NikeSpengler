@@ -1,4 +1,4 @@
-### Hi there 🌱
+### Hi, I am Nike 🌱
 
 - I am a Frontend Developer student with a background in Garpic Design. It feels like a perfect match.
  
