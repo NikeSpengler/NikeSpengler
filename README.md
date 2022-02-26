@@ -2,7 +2,17 @@
 
 - I am a Frontend Developer student with a background in Garpic Design. It feels like a perfect match.
  
-- I’m currently learning; JavaScript, Html & Css and lately React.
-- Portfolio: Cooming soon.
+- I’m currently learning; 
+- JavaScript
+- React.JS
+- HTML5
+- CSS3
+- Node.js & Express
+- Git
+- Figma
+
+
+
+- Portfolio: Cooming soon
 
 
