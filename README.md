@@ -7,7 +7,7 @@
 - React.JS
 - HTML5
 - CSS3
-- Node.js & Express
+- Node.js
 - Git
 - Figma
 
