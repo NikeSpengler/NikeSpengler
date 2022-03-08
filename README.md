@@ -1,4 +1,4 @@
-### Hi I am Nike, a Frontend Developer student with a background in Garpic Design. 
+### Hi I am Nike, a Frontend Developer student with a background in Graphic Design. 
 - It feels like a perfect match.
  
 ### I’m currently learning; 
