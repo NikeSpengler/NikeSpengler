@@ -1,5 +1,5 @@
-## Hi there :herb:
-My name is Nike Spengler and I am a junior Software Developer.
+## Hello! :herb:
+My name is Nike Spengler and I am a fullstack developer with a focus on and a deep interest in frontend development.
 
 - During my free time, I'm passionate about music and sustainability.
 - I have previously worked as a Graphic Designer. 
